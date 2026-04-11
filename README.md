@@ -67,7 +67,7 @@ The goal is to build a strong foundation in Excel by practicing real-like datase
 
 ## 📁 Files  
 
-- WEEK1.xlsx  
+- [WEEK1.xlsx](https://github.com/shivamrastogi-analyst/Excel-Learning-Journey/blob/main/WEEK%201%20.xlsx)  
   → Contains all practice sheets, functions, and solved questions  
 
 ---
