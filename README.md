@@ -1,4 +1,4 @@
-# Excel Learning Journey 📊  
+# Excel Learning Journey 📊 
 
 This repository contains my Excel practice work from Week 1 of my learning journey.  
 The goal is to build a strong foundation in Excel by practicing real-like datasets and solving practical problems.
