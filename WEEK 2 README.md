@@ -61,7 +61,7 @@ This week focused on data cleaning, structuring, and working with real-world sty
 
 ## 📁 Files  
 
-• WEEK2.xlsx  
+• [WEEK2.xlsx](https://github.com/shivamrastogi-analyst/Excel-Learning-Journey/blob/main/WEEK%202.xlsx)  
   → Contains cleaned datasets, validation work, pivot tables, and practice sheets  
 
 ---
