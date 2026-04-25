@@ -67,7 +67,7 @@ A simple yet powerful Habit Tracker Dashboard built in Microsoft Excel to track 
 
 ## 📁 Files
 
-- Excel File: [Download](./WEEK%201.xlsx)
+- Excel File: [Download Habit Tracker](https://github.com/shivamrastogi-analyst/Excel-Learning-Journey/blob/main/HABIT%20TRACKER.xlsx)
 
 ---
 
