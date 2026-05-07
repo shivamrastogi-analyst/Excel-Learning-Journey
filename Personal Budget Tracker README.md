@@ -204,8 +204,8 @@ Dropdown-based categorization minimizes errors and improves usability.
 
 # 📁 Files Included
 
-- Personal Budget Tracker Dashboard (.xlsx)
-- Dashboard Preview Images
+- Personal Budget Tracker Dashboard: [Download Personal Budget Tracker](https://github.com/shivamrastogi-analyst/Excel-Learning-Journey/blob/main/Personal%20Budget%20Tracker.xlsx) 
+- Dashboard Preview Images: ![Personal Budget Tracker Dashboard](https://github.com/shivamrastogi-analyst/Excel-Learning-Journey/blob/main/Personal%20Budget%20Tracker%20Dashboard.jpg)
 
 ---
 
