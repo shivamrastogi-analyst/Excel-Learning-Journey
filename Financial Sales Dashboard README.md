@@ -155,6 +155,12 @@ The dashboard was built using:
 - Data aggregation
 - KPI calculations
 
+## 📥 Project Files
+
+👉 **[Download Excel Dashboard](./Financial-Sales-Dashboard.xlsx)**
+
+The workbook contains the dataset, Pivot Tables, calculations, and interactive dashboards.
+
 ## 🔄 Project Workflow
 
 ```text
