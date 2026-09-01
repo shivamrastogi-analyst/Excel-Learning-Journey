@@ -157,7 +157,7 @@ The dashboard was built using:
 
 ## 📥 Project Files
 
-👉 **[Download Excel Dashboard](./Financial-Sales-Dashboard.xlsx)**
+👉 [Download Excel Dashboard](./Financial%20%26%20Sales%20Dashboard.xlsx)
 
 The workbook contains the dataset, Pivot Tables, calculations, and interactive dashboards.
 
